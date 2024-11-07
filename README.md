@@ -1,18 +1,23 @@
 # Speculorg-Dev
 
-**Welcome to Speculorg-Dev!**  
-This account is managed by the **[Speculorg team](https://github.com/Speculorg)** and dedicated to developing, moderating, and reviewing contributions to Speculorg's open-source projects.
+**Speculorg-Dev** is a technical account created to support and moderate **[Speculorg](https://github.com/Speculorg)** open-source projects. Our focus is on managing the development process, conducting code reviews, and supporting active community engagement.
 
-### Projects
-- **[Speculorg.CMS](https://github.com/Speculorg/CMS):** A modular content management system supporting multilingual content, AI-driven automation, and community contributions.
-- **[Speculorg.Terminal](https://github.com/Speculorg/Terminal):** A multi-exchange trading terminal for automated and algorithmic trading with real-time data and analytics.
+## 📚 Speculorg Repositories
 
-### Role
-- **Code Reviews and Pull Requests**: We review community contributions, ensuring that new code aligns with Speculorg’s standards for readability, security, and modularity.
-- **Repository Management**: Speculorg-Dev manages all content, documentation, and releases across Speculorg’s projects, actively supporting collaboration and knowledge sharing.
-- **Community Interaction**: Engaging with contributors through GitHub discussions, issues, and pull requests to foster a strong, collaborative community.
+- **[Speculorg/CMS](https://github.com/Speculorg/CMS)** — a modular CMS for news and educational platforms, focused on multilingual support, flexible content management, and AI agents for content generation and moderation.
 
-### Get Involved
-Join the community by contributing code, reporting issues, or participating in discussions.
+- **[Speculorg/Terminal](https://github.com/Speculorg/Terminal)** — a comprehensive trading terminal for algorithmic trading and data analysis. The Terminal supports interaction with various exchanges, provides automation tools for trading, and features market analytics, including AI agents for signals and analysis.
 
-Learn more at **[Specul.org](https://specul.org)**.
+## 👥 Open Participation
+
+**Speculorg-Dev** is dedicated to moderating and supporting community contributions. If you have ideas or improvements, please send a [pull request](https://github.com/Speculorg/CMS/pulls) or create an issue on the project page. We’re excited to review your contributions!
+
+## 📧 Contacts
+
+- **Main website**: [Specul.org](https://specul.org)
+- **Support and general inquiries**: [support@specul.org](mailto:support@specul.org)
+- **For pull requests and repository contributions**: [dev@specul.org](mailto:dev@specul.org)
+
+## 🏷 Tags
+
+`#Speculorg` `#OpenSource` `#Trading` `#CMS` `#AI` `#AlgorithmicTrading` `#FinancialMarkets` `#EducationalPlatform` `#OpenSourceCommunity`
